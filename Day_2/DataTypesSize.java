@@ -23,14 +23,9 @@ public class DataTypesSize {
     //other types 
     byte small =(byte) 127;
     char grade ='A';
-    boolean is valid =true;
+    boolean  valid =true;
     string message ="Literals demo";
 }
-System.out.println("int says: I can hold big number like " + 1234567890);
-System.out.println("string says:"+ stringvariable +"is my favorite word!");
-System.out.println("char says: I'm just a lonely character ->" + charvariable);
-System.out.println("short says:Don't underestimate me, I carry " + 12345);
-System.out.println("long says:'I'm HUGE! Example:" + 1234567890000);
 
 
 }
