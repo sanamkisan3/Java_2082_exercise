@@ -32,7 +32,7 @@ public class Guess {
 
     public static void main(String[] args) {
 
-        Guess guess = new Guess(25);
+        Guess guess = new Guess(14);
         guess.guessNum();
     }
 }
